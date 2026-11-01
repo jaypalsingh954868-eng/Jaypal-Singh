@@ -2,5 +2,7 @@
   "name": "Apex City: 3D BMW M4 Open World Driving",
   "description": "Drive the iconic BMW M4 and exotic supercars in a large 3D open world city with realistic physics, day/night cycles, minimap, garage, and responsive mobile controls.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
